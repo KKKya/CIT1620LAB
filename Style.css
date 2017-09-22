@@ -1,0 +1,75 @@
+#center {
+	width:50vw;
+	height:60vh;
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	margin:auto;
+}
+#ctop {
+	height:70%;
+	width:100%;
+}
+
+#ctopleft {
+	height:100%;
+	width:30%;
+	display:inline-block;
+
+}
+
+#ctopright {
+	height:100%;
+	width:55%;
+	display:inline-block;
+	overflow: auto;
+	border-left:3px solid rgba(110,110,110,0.5);
+	padding-left:15px;
+	margin-right:50px;
+}
+	
+#ctopbot {
+	width:100vw;
+	height:30%;
+	
+}
+#bigImg {
+	height:120%;
+	
+}
+
+.thumbs {
+	height:130px;
+	padding:20px;
+	margin-top:75px;
+	width:auto;
+}
+
+#background {
+	width:100vw;
+	height:100vh;
+	position:absolute;
+	top:0;
+	background-image:url(IMG/image7.jpg);
+	background-size:cover;
+}
+
+#ctoptitle, #ctoppara {
+	color:rgb(110,20,20);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
